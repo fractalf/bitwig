@@ -14,6 +14,6 @@ Preset file: [Ableton Ping Pong Delay.bwpreset](https://github.com/fractalf/bitw
 
 I missed this from Ableton, so I made it using the Stereo Split and a Filter
 
-![](Bitwig-Stereo-Split-Ableton-Auto-Filter.png?raw=true)
-
 Preset file: [Ableton Auto Filter.bwpreset](https://github.com/fractalf/bitwig/raw/main/Ableton%20Auto%20Filter.bwpreset)
+
+![](Bitwig-Stereo-Split-Ableton-Auto-Filter.png?raw=true)
